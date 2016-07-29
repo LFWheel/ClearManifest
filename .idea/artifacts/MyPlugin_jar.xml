@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyPlugin_jar</output-path>
+    <root id="archive" name="MyPlugin.jar">
+      <element id="module-output" name="MyPlugin" />
+      <element id="extracted-dir" path="D:/dom4j-1.6.1.jar" path-in-jar="/" />
+      <element id="file-copy" path="D:/dom4j-1.6.1.jar" />
+    </root>
+  </artifact>
+</component>
