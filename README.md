@@ -1,4 +1,4 @@
-# NoRepeatManifest
+# ClearManifest
 # 1.what's this
   一个AndroidStudio插件，用来清除AndroidManifest.xml中重复申明的uses-permission.
 # 2.how to use
